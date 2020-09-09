@@ -1,0 +1,26 @@
+img {
+    border: slateblue solid 20px;
+}
+.About {
+    border: slateblue solid 20px;
+}
+
+.Education {
+    border: slateblue solid 20px;
+}
+
+.Skills {
+    border: slateblue solid 20px;
+}
+
+.Personal {
+    border: slateblue solid 20px; 
+} 
+#Quote {
+    color:grey;
+    font-size: 65px;
+    font-family: cursive;
+}
+#Website {
+ color: green;
+}
